@@ -9,6 +9,6 @@ Insert, Update, Read and Delete operations
 
 2.Lombok 1.18.12
 
-MySQL connector 8.0.20 , Oracle19c
+3.MySQL connector 8.0.20 , Oracle19c
 
-Java 1.8
+4.Java 1.8
